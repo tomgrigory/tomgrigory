@@ -1,4 +1,5 @@
-### Hi I am TomGrigory a 12 y/o self-taught dev(I use this intro always because it makes me look cool).
+### 🤔Hi I am TomGrigory a 12 y/o 🔭self-taught dev🔭
+(⚡ Fun fact: I use this intro always because it makes me look cool).
 
 <!--
 **tomgrigory/tomgrigory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
