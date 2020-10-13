@@ -1,4 +1,4 @@
-### 🤔Hi I am TomGrigory a 12 y/o 🔭self-taught dev🔭
+### 🤔Hi I am TomGrigory a 12 y/o 🔭Entreprenuer and Self-taught dev🔭
 (⚡ Fun fact: I use this intro always because it makes me look cool).
 
 <!--
