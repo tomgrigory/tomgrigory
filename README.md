@@ -1,6 +1,6 @@
-### 🤔Hi I am TomGrigory a 12 y/o 🔭Entreprenuer and Self-taught dev🔭
+### 🤔Hi I am TomGrigory a 13 y/o 🔭Entreprenuer and Self-taught dev🔭
 (⚡ Fun fact: I use this intro always because it makes me look cool).
-
+🌱 I’m currently working on CuriousFounders The Best Community of Founders 🌱(More about that later)
 <!--
 **tomgrigory/tomgrigory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
