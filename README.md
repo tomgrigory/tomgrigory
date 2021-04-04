@@ -1,5 +1,5 @@
-### 🤔Hi I am TomGrigory a 13 y/o 🔭Entreprenuer and Self-taught dev🔭
-(⚡ Fun fact: I use this intro always because it makes me look cool).
+### 🤔Hi I am TomGrigory, a 13y/o Entrepreneur & Full-stack Developer| Working on building an audience for CuriousFounders before launching badass products. | #buildinpublic | DM's open
+Shoot me at https://twitter.com/TomGrigory
 
 <!--
 **tomgrigory/tomgrigory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
