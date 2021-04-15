@@ -1,4 +1,5 @@
-### 🤔Hi I am TomGrigory, a 13y/o Entrepreneur & Full-stack Developer| Working on building an audience for CuriousFounders before launching badass products. | #buildinpublic | DM's open
+### 🤔Hi I am TomGrigory, a 13y/o Entrepreneur & Full-stack Dev
+Working on building an audience for CuriousFounders before launching badass products. 
 Shoot me at https://twitter.com/TomGrigory
 
 <!--
