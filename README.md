@@ -1,5 +1,5 @@
 ### 🤔Hi I am TomGrigory, a 13y/o Entrepreneur & Full-stack Dev
-Working on building an audience for CuriousFounders before launching badass products. 
+Working on building an audience for CuriousFounders.com before launching badass products. 
 Shoot me at https://twitter.com/TomGrigory
 
 <!--
